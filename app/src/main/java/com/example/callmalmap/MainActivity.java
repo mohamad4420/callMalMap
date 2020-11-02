@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     public void phone(View view) {
 
 
-        String number = "12346556";
+        String mohamad = "12346556";
 
 
 
