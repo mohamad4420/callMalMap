@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">callMalMap</string>
+    <string name="title_map">الخريطه</string>
+    <string name="title_mail">البريد</string>
+    <string name="title_call">الاتصال</string>
+    <string name="phoneNumber">الرجاء ادخال الرقم هنا</string>
+    <string name="msgSend">الرجاء ادخال الرساله هنا</string>
+    <string name="sendMsg">ارسال</string>
+    <string name="phonsHint">الرجاء ادخال الارقام هنا بينهم فاصله</string>
+    <string name="msgCall">الرجاء ادخال الرساله هنا</string>
+    <string name="btnCall">ارسال</string>
+</resources>
